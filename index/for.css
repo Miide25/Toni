@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+  
+  body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background: url(TONIFY.jpg);
+    background-size: cover;
+  }
+  
+ p{
+box-sizing: content-box;
+width: 50px;
+height: 20px;
+padding: 20px;
+border: 2px solid red;
+border-radius: 5px;
+  color: white;
+  background: red;
+  font-size: 20px;
+ }
